@@ -5,24 +5,24 @@
         "title": "Maldives Experience ",
         "image": "https://cdn.pixabay.com/photo/2019/08/02/02/02/beach-4378548__340.jpg",
         "content":"But there is more to Split than boats and crumbling buildings. This seaside burg of about 170,000 people has a stunning medieval cathedral, a warren of ancient streets to explore, an oceanside promenade on which to linger, and a hiking-trail-carved hill to explore.",
-        "author":"Valentine"
+        "author":" Miss Valentine"
 
        
       },
       {
         "id": 2,
-        "title": "Amazon  EXperience",
+        "title": "Amazon  Experience",
         "image": "https://media.istockphoto.com/photos/dramatic-landscape-on-a-river-in-the-amazon-state-venezuela-picture-id170099678?b=1&k=20&m=170099678&s=170667a&w=0&h=q_6QXJq89tOUiInPls_KM6KQOvfJtWo7XdUPpq9n6bU=",
-        "content":"But there is more to Split than boats and crumbling buildings. This seaside burg of about 170,000 people has a stunning medieval cathedral, a warren of ancient streets to explore, an oceanside promenade on which to linger, and a hiking-trail-carved hill to explore.",
-        "author":"Valentine"
+        "content":"You never forget your first night walking in the Amazon jungle You walk slower than the normal day pace with all your senses tuned, looking for nocturnal animals and insects, hearing the most awesome natural symphony, while your mind is intrigued by what could be found lying ahead. Your heart races with every new discovery. You feel aliveAll in all, an experience worth to be lived by any adventurer soul",
+        "author":" Miss Valentine"
 
       }, 
       {
         "id": 3,
-        "title": "Italy EXperience",
+        "title": "Italy Experience",
         "image": "https://cdn.pixabay.com/photo/2014/03/03/16/12/village-279013__340.jpg",
-        "content":"But there is more to Split than boats and crumbling buildings. This seaside burg of about 170,000 people has a stunning medieval cathedral, a warren of ancient streets to explore, an oceanside promenade on which to linger, and a hiking-trail-carved hill to explore.",
-        "author":"Valentine"
+        "content": "Italy is a must-visit country and is one of the most-traveled destinations in Europe. There are so many highlights in this beautiful country — from the canals of Venice to the Tuscan wine lands to the cobblestone streets of Rome to the Arno river running through Florence to the cliffs of Positano… and Florence was one of my favorite cities because of the architecture and natural beauty— the sun setting over the Arno River is something you can’t soon forge. Rome is one of the most iconic and most traveled cities in Europe and you could spend days getting lost in this magnificent destination. The most picturesque spots in Italy might just be Cinque Terre and all the stops along the Amalfi Coast. Positano is the gem of the Amalfi Coast and is arguably the most picturesque and most romantic town in the whole of Italy—here are the best things to do on the Amalfi Coast!",
+        "author":" Miss Valentine"
 
       }
     ], 
@@ -30,18 +30,9 @@
    "comments":[
      {
        "id":1,
-       "comment": "I am in love  with this article",
-       "user":"Miss Maiyo"
-     },   {
-      "id":2,
-      "comment": "I am in love  with this article",
-      "user":"Bradly"
-    },
-    {
-      "id":3,
-      "comment": "I am in love  with this article",
-      "user":"Harvey"
-    }
+       "comment": "I am in love with this articles, I am inspired to travel",
+       "user":"Jay"
+     }
 
    ]
     
